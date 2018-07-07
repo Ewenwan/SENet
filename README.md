@@ -1,6 +1,11 @@
 # Squeeze-and-Excitation Networks <sub>([arXiv](https://arxiv.org/pdf/1709.01507.pdf))</sub>
 By Jie Hu<sup>[1]</sup>, Li Shen<sup>[2]</sup>, Gang Sun<sup>[1]</sup>.
 
+* SENet  
+[Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
+[中文版](http://noahsnail.com/2017/11/20/2017-11-20-Squeeze-and-Excitation%20Networks%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
+[中英文对照](http://noahsnail.com/2017/11/20/2017-11-20-Squeeze-and-Excitation%20Networks%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/)
+
 [Momenta](https://momenta.ai/)<sup>[1]</sup> and [University of Oxford](http://www.robots.ox.ac.uk/~vgg/)<sup>[2]</sup>.
 
 ## Approach
